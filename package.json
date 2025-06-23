@@ -1,0 +1,10 @@
+{
+  "name": "@pnpm/node-path-for-esm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "pnpmfile.cjs",
+  "scripts": {},
+  "keywords": ["pnpm"],
+  "license": "MIT",
+  "packageManager": "pnpm@10.12.1"
+}

@@ -1,1 +1,1 @@
-# node-path-for-esm
+# @pnpm/node-path-for-esm
