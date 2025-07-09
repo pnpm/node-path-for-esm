@@ -1,4 +1,4 @@
-# @pnpm/node-path-for-esm
+# @pnpm/plugin-esm-node-path
 
 ## Why is it needed
 
@@ -7,15 +7,7 @@ Node.js ESM (ES modules) doesn't support the `NODE_PATH` environment variable, u
 ## Installation
 
 ```
-pnpm add --config @pnpm/node-path-for-esm
-```
-
-## Usage
-
-Add this to `pnpm-workspace.yaml`:
-
-```yaml
-pnpmfile: node_modules/.pnpm-config/@pnpm/node-path-for-esm/pnpmfile.cjs
+pnpm add --config @pnpm/plugin-esm-node-path
 ```
 
 ## License

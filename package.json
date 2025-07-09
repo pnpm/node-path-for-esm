@@ -1,7 +1,7 @@
 {
-  "name": "@pnpm/node-path-for-esm",
+  "name": "@pnpm/plugin-esm-node-path",
   "version": "0.1.2",
-  "description": "",
+  "description": "Enables support for resolving dependencies via NODE_PATH in Node.js ESM mode.",
   "main": "pnpmfile.cjs",
   "scripts": {},
   "keywords": [
